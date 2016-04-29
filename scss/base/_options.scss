@@ -42,7 +42,6 @@
 
 
 
-
 // Images
 
 
@@ -155,21 +154,6 @@ hr {
 }
 
 
-
-
-// Circles & Radiuses
-
-.circle {
-
-}
-
-.radius {
-
-}
-
-
-
-
 // Headings Opts
 
 h1, h2, h3, h4, h5, h6 {
@@ -179,34 +163,6 @@ h1, h2, h3, h4, h5, h6 {
 
 	a & {
 		cursor: pointer !important;
-	}
-
-	&.red {
-		color: $clr-red-300;
-	}
-
-	&.green {
-		color: $clr-green-500;
-	}
-
-	&.lorange {
-		color: $clr-cc-15;
-	}
-
-	&.orange {
-		color: $clr-cc-20;
-	}
-
-	&.yellow {
-		color: $clr-yellow-500;
-	}
-
-	&.white {
-		color: $clr-white;
-
-		i {
-			color: $clr-white;
-		}
 	}
 }
 

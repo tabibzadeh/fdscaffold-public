@@ -15,7 +15,7 @@ module.exports = function(grunt) {
 
       main: {
         files: {
-          'dist/js/hanza.min.js': [
+          'dist/js/NAME.min.js': [
             'bower/jquery/dist/jquery.js',
             'bower/foundation-sites/dist/foundation.js',
             'js/components/*.js',
@@ -34,7 +34,7 @@ module.exports = function(grunt) {
           style: 'compressed'
         },
         files: {
-          'dist/css/hanza.min.css': 'scss/app.scss'
+          'dist/css/NAME.min.css': 'scss/app.scss'
         }
       }
     },
@@ -60,14 +60,14 @@ module.exports = function(grunt) {
 
       uglify: {
         options: {
-          title: 'hanza',
+          title: 'PROJECT NAME',
           message: 'Uglify: Completed Successfully',
         }
       },
 
       sass: {
         options: {
-          title: 'hanza',
+          title: 'PROJECT NAME',
           message: 'Sass: Completed Successfully',
         }
       }
