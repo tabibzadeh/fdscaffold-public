@@ -34,15 +34,8 @@ dist
 
 
 # Img Demos
-img/demo
-img/avatar.jpg
+
 
 # Codekit (Mac)
 .codekit-cache
 .config-codekit
-
-# Digiatosis (v1)
-digiatosis
-
-# Landing Pages
-landing-pages
