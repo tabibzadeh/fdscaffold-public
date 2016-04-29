@@ -1,0 +1,26 @@
+{
+  "name": "hanza",
+  "version": "0.5.0",
+  "description": "Company site for Arman Sazan Hanza",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabibzadeh/armanhanza.git"
+  },
+  "author": "Ali Tabibzadeh (ali@tabibza.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabibzadeh/armanhanza/issues"
+  },
+  "homepage": "https://github.com/tabibzadeh/armanhanza#readme",
+  "devDependencies": {
+      "grunt": "^0.4.5",
+      "grunt-contrib-sass": "^0.9.2",
+      "grunt-contrib-uglify": "^0.10.1",
+      "grunt-contrib-watch": "^0.6.1",
+      "grunt-notify": "^0.4.3"
+  }
+}
